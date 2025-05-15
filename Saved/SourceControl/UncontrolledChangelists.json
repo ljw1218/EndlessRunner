@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XC/0WMJ6M60TQW6W36SKNBFSY.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GN/MTKP6SFSJQ4DG9RIXT0EBA.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_FloorTile.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/PlayMap.umap",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_RunGameMode.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_Blocker.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/StarterContent/Props/SM_Rock.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_Item.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/RunHUD.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_FloorTile_RampUp.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_FloorTile_RampDown.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_FloorTile_RightCorner.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_FloorTile_LeftCorner.uasset"
+			]
+		}
+	]
+}
