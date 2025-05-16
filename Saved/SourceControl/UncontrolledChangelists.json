@@ -22,7 +22,11 @@
 				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_FloorTile_RampUp.uasset",
 				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_FloorTile_RampDown.uasset",
 				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_FloorTile_RightCorner.uasset",
-				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_FloorTile_LeftCorner.uasset"
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_FloorTile_LeftCorner.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/ThirdPerson/Blueprints/BP_LowBlocker.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left.uasset",
+				"C:/Users/yuju1/Documents/Unreal Projects/EndlessRunner/Content/Characters/Mannequins/Animations/ABP_Manny.uasset"
 			]
 		}
 	]
